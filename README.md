@@ -20,9 +20,6 @@ To build and run the application, follow these steps:
    ```sh
    git clone https://github.com/BowensCode21020/RewardPointsServiceApplication.git
 2. Build and run the application:
-   ```sh
-   cd RewardPointsServiceApplication
-   mvn spring-boot:run
 
 3. Access the following endpoints ( I used Postman API for screenshots) :
 
