@@ -27,8 +27,8 @@ To build and run the application, follow these steps:
 3. Access the following endpoints ( I used Postman API for screenshots) :
 
 `POST /transactions/add`: Add a new transaction.
-![ValueAdded1.png](..%2F..%2F..%2FOneDrive%2FDesktop%2FValueAdded1.png)
+![ValueAdded1](https://github.com/BowensCode21020/RewardPointsServiceApplication/assets/74689536/d8fe09d5-b152-46af-bce1-ba9fc51d8513)
 `GET /transactions/calculate-points?customerId={customerId}`: Calculate reward points for a customer.
-![CalculatePoints1.png](..%2F..%2F..%2FOneDrive%2FDesktop%2FCalculatePoints1.png)
+![CalculatePoints1](https://github.com/BowensCode21020/RewardPointsServiceApplication/assets/74689536/3fb0c326-10e2-4027-bd82-9d94dcc0d164)
 `GET /transactions/all`: Retrieve all transactions.
-![ValueAdded2.png](..%2F..%2F..%2FOneDrive%2FDesktop%2FValueAdded2.png)
+![ValueAdded2](https://github.com/BowensCode21020/RewardPointsServiceApplication/assets/74689536/9952ddd0-66f8-404f-b021-c237c15eb8d9)
