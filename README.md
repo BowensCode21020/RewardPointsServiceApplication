@@ -3,7 +3,7 @@
 This is a Spring Boot application that implements a RESTful endpoint to calculate reward points earned by customers based on their purchases over a three-month period.
 ## Purpose
 
-The purpose of this application is to showcase how to create and package a Java application into a JAR file and share it on GitHub.
+The purpose of this application is to showcase a service API / backend application to complement the UI front end and display proficiency in API / backend development.
 
 ## Prerequisites
 
